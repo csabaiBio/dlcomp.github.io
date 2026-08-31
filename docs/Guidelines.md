@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guidelines
+---
+
 # Deep Learning Competition club Guidelines
 ### A.k.A. How should we work on a project.
 Created by: Bence Dudás
