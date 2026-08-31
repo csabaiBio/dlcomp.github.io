@@ -1,0 +1,10 @@
+lsi: false
+safe: true
+source: .
+title: Deep Learning Competition Club
+description: Later.
+incremental: false
+theme: jekyll-theme-hacker
+markdown: kramdown
+kramdown:
+  math_engine: katex
