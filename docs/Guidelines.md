@@ -62,5 +62,5 @@ I usually like to use pytorch lightning for the training, therefore the usual sc
 In this way if we have a training.py, there we only have to specify which callbacks I want to add to the model, which training pipeline I want to use, and so on.
 
 ## Final thoughts
-If the competition has a forum we need to always check that, see if there is any problem with something or is there any new information. Did someone find out that the scores can be hacked and so on. I wish you all a lot of fun and success in the competitions!
+If the competition has a forum we need to always check that, see if there is any problem with something or is there any new information. Did someone find out that the scores can be hacked and so on. I wish you all a lot of fun and success in the competitions!  
 [HOME](../README.md)
