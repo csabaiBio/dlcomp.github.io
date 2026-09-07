@@ -2,7 +2,7 @@
 This is the website for the ELTE Deep Learning Competition Club, which is a scientific competition oriented team/community. Our goal is to gather all the students interested in scientific machine learning topics and participate in interesting competitions. Everyone is welcome, no matter what AI knowledge/experience you have, since we are here to gain experience together.
 
 ## Meetings
-We meet regularly at 5.62A North Building. Meeting schedule:TBA
+We meet regularly at 5.62A North Building.  Monday 15:00-16:00
 
 ## Contact
 If you plan to join, or interested about our work please reach out to me at [dudas.bence@ttk.elte.hu](dudas.bence@ttk.elte.hu). YOu can visit me at 6.102 North Building.
