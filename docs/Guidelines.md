@@ -47,8 +47,9 @@ This is the part which will be the most different from project to project. Some 
 - Build a strong evaluation pipeline, that checks all the metrics for the competition and the summarize our model performance. In this way we will always know if we are in the right track or not.
 - Maximize the number of submissions. If the total number of submissions is not limited, try to hit the daily limit all the time. In this way we can see better if we are improving or not.
 - In order to improve on something always ask why is this metric is stucked? If we have nice MSE but the generated images are blurry, and we have a metric which is sensitive to that, think on what could enforce sharpness.
-- Do not code for streaming services. We are building pipeline for scientific competitions/research. Don't build 200 try-except blocks! It's hard to check through on them and not necessary, when we are using a fixed environment. 
+- Do not code for streaming services. We are building pipeline for scientific competitions/research. Don't build 200 try-except blocks! It's hard to check through on them and not necessary, when we are using a fixed environment.
 
+Please let me know if you don't have time to work on something! It's completly fine, but let us plan based on how much resources we have.
 ## Technicality
 It's okay to use Chatbots, but please think in blocks, not in full projects and please understand the code you are using. Same as with the losses, know if it's any sensitivity or limitation for the certain block you are using. Always have someone from the competition club to check your code! 
 I usually like to use pytorch lightning for the training, therefore the usual scripts structure I use is the following:
