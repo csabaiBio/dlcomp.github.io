@@ -22,7 +22,8 @@ TBA
 - [Bence Dudás](https://github.com/Dudgit) (Team lead)
 - [Regina Fiam](https://github.com/Frellaa)
 - [Zoltán Kovács](https://github.com/ztoli17)
-- [Áron Holló](https://github.com/aronh8)
+- [Áron Holló](https://github.com/aronh8)  
+- [Barna Villám](https://github.com/VillamBarna)  
 
 ## Honorary members:
 - [Prof. Papp Gábor](https://github.com/pgpapp)
